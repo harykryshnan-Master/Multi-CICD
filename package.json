@@ -23,7 +23,7 @@
     "@angular/material": "^14.2.2",
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
-    "@angular/router": "^14.2.0",
+    "@angular/router": "^21.0.8",
     "@fortawesome/fontawesome-free": "^6.0.0",
     "@ionic/angular": "^6.3.5",
     "@material/top-app-bar": "^14.0.0",
